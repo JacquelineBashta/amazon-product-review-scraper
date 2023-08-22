@@ -4,7 +4,7 @@ Python package to scrape product review data from amazon
 ## Quickstart
 
 ```
-pip install amazon-product-review-scraper
+pip install "git+https://github.com/JacquelineBashta/amazon-product-review-scraper.git#egg=amazon-product-review-scraper"
 ```
         
 ```
