@@ -15,7 +15,7 @@ setup_args = dict(
     author='Harsh Singhal',
     author_email='harshsinghal726@gmail.com',
     python_requires='>=3.6',
-    url="https://github.com/SinghalHarsh/amazon-product-review-scraper"
+    url="https://github.com/JacquelineBashta/amazon-product-review-scraper"
 )
 
 install_requires = [
